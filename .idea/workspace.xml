@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0289dc42-2680-4424-bf11-d8ad962d090c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +20,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/demo/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -92,6 +94,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -105,7 +112,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Palpx_Ui/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Palpx_Ui/demo/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -126,12 +133,12 @@
       <updated>1560187174979</updated>
       <workItem from="1560187181732" duration="1119000" />
       <workItem from="1560188479716" duration="5269000" />
-      <workItem from="1560270558088" duration="6793000" />
+      <workItem from="1560270558088" duration="7052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13181000" />
+    <option name="totallyTimeSpent" value="13440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,9 +150,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="27" width="927" height="1053" extended-state="4" />
+    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42111236" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,7 +169,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Debug" order="4" weight="0.2584394" />
-      <window_info anchor="right" id="Terminal" order="5" visible="true" weight="0.54370034" />
+      <window_info active="true" anchor="right" id="Terminal" order="5" visible="true" weight="0.32927504" />
       <window_info anchor="right" id="TODO" order="6" weight="0.32927504" />
     </layout>
   </component>
@@ -200,7 +207,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
