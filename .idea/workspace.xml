@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0289dc42-2680-4424-bf11-d8ad962d090c" name="Default Changelist" comment="" />
+    <list default="true" id="0289dc42-2680-4424-bf11-d8ad962d090c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,9 @@
       <replace>Wallpaper image</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -53,12 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
     <option name="width" value="927" />
     <option name="height" value="1053" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -80,6 +86,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -119,12 +126,12 @@
       <updated>1560187174979</updated>
       <workItem from="1560187181732" duration="1119000" />
       <workItem from="1560188479716" duration="5269000" />
-      <workItem from="1560270558088" duration="6057000" />
+      <workItem from="1560270558088" duration="6793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12445000" />
+    <option name="totallyTimeSpent" value="13181000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -138,7 +145,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="927" height="1053" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.523269" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42111236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -155,7 +162,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Debug" order="4" weight="0.2584394" />
-      <window_info active="true" anchor="right" id="Terminal" order="5" visible="true" weight="0.6753689" />
+      <window_info anchor="right" id="Terminal" order="5" visible="true" weight="0.54370034" />
       <window_info anchor="right" id="TODO" order="6" weight="0.32927504" />
     </layout>
   </component>
